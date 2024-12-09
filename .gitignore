@@ -1,4 +1,6 @@
 env/*
 .env
 requirements.txt
+.DS_store
+.ipynb_checkpoints/
 *.wav
